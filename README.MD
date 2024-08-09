@@ -12,7 +12,7 @@ Welcome to the comprehensive repository dedicated to learning ReactJS in depth. 
 
 1. Clone this repository:
    ```bash
-   git clonehttps://github.com/govindti/React-YT
+   git clone https://github.com/govindti/React-YT
    ```
 
 2. Navigate to each project folder and follow the instructions in the respective README to set up and run the project.
